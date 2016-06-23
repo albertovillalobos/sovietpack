@@ -1,0 +1,8 @@
+Resources:
+{0,14}{2:\:;;}{1,8:0.0/;;}{2,-8:0.00;;}{2:;;                 }{3,8:"("00.0%")"}$&$LISTR_0_NAME LISTR_0_VAL LISTR_0_MAX LISTR_0_PERCENT
+{0,14}{2:\:;;}{1,8:0.0/;;}{2,-8:0.00;;}{2:;;                 }{3,8:"("00.0%")"}$&$LISTR_1_NAME LISTR_1_VAL LISTR_1_MAX LISTR_1_PERCENT
+{0,14}{2:\:;;}{1,8:0.0/;;}{2,-8:0.00;;}{2:;;                 }{3,8:"("00.0%")"}$&$LISTR_2_NAME LISTR_2_VAL LISTR_2_MAX LISTR_2_PERCENT
+{0,14}{2:\:;;}{1,8:0.0/;;}{2,-8:0.00;;}{2:;;                 }{3,8:"("00.0%")"}$&$LISTR_3_NAME LISTR_3_VAL LISTR_3_MAX LISTR_3_PERCENT
+{0,14}{2:\:;;}{1,8:0.0/;;}{2,-8:0.00;;}{2:;;                 }{3,8:"("00.0%")"}$&$LISTR_4_NAME LISTR_4_VAL LISTR_4_MAX LISTR_4_PERCENT
+
+Total mass:{0,9:0.000} t.              $&$MASSRESOURCES

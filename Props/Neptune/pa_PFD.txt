@@ -1,0 +1,20 @@
+----Orbit: {1,-15} Stage {0:00}---- $&$STAGE ORBITBODY 
+ Vel: {0:SIP_10.1}m/s  Alt: {1:SIP_8.3}m  Accel: {2:SIP4}m/s $&$ORBTSPEED ALTITUDE ACCEL
+ ApA:  {0:SIP_6.1}m $&$APOAPSIS 
+ PeA:  {0:SIP_6.1}m $&$PERIAPSIS
+ ApT: {0:KDTyy:ddd:hh:mm:ss.f} $&$TIMETOAPSECS
+ PeT:{0:KDT-yy:ddd:hh:mm:ss.f} $&$TIMETOPESECS
+ OP: {0:KDTyy:ddd:hh:mm:ss.f}  $&$ORBPERIODSECS
+ INC:  {0,7:0.000}° $&$ INCLINATION
+ ECC:  {0,7:0.000} $&$ ECCENTRICITY
+ 
+ Kerosene: {0, -30:"("00.0%")"} RCS:    {1:ON;;OFF} $&$ LISTR_1_PERCENT RCS
+ Liq Oxy:  {0, -30:"("00.0%")"} SAS:    {1:ON;;OFF} $&$ LISTR_3_PERCENT SAS
+ Monoprop: {0, -30:"("00.0%")"} Lights: {1:ON;;OFF} $&$ LISTR_2_PERCENT LIGHTS
+ ElecChrg: {0, -30:"("00.0%")"} 					$&$ LISTR_0_PERCENT
+
+
+
+------Node in T-----------dV:---THROTTLE---------------------------
+ {0,17:KDT+yy:ddd:hh:mm:ss.f}  |{1,9:0.00} |   {2,5:P0} $&$ MNODETIMESECS MNODEDV THROTTLE
+-------------------------------------------------------------------
