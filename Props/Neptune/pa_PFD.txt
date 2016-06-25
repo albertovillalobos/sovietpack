@@ -5,15 +5,15 @@
  ApT: {0:KDTyy:ddd:hh:mm:ss.f} $&$TIMETOAPSECS
  PeT:{0:KDT-yy:ddd:hh:mm:ss.f} $&$TIMETOPESECS
  OP: {0:KDTyy:ddd:hh:mm:ss.f}  $&$ORBPERIODSECS
- INC:  {0,7:0.000}° $&$ INCLINATION
- ECC:  {0,7:0.000} $&$ ECCENTRICITY
- 
+ INC: {0,7:0.000}° $&$ INCLINATION
+ ECC: {0,7:0.000} $&$ ECCENTRICITY
+ ATM: {0,9:"("00.0%")"} $&$ ATMOSPHEREDEPTH
+
+ dV:       {0:SIP4.1}m/s $&$ DELTAV
  Kerosene: {0, -30:"("00.0%")"} RCS:    {1:ON;;OFF} $&$ LISTR_1_PERCENT RCS
- Liq Oxy:  {0, -30:"("00.0%")"} SAS:    {1:ON;;OFF} $&$ LISTR_3_PERCENT SAS
+ Liq Oxyg: {0, -30:"("00.0%")"} SAS:    {1:ON;;OFF} $&$ LISTR_3_PERCENT SAS
  Monoprop: {0, -30:"("00.0%")"} Lights: {1:ON;;OFF} $&$ LISTR_2_PERCENT LIGHTS
  ElecChrg: {0, -30:"("00.0%")"} 					$&$ LISTR_0_PERCENT
-
-
 
 ------Node in T-----------dV:---THROTTLE---------------------------
  {0,17:KDT+yy:ddd:hh:mm:ss.f}  |{1,9:0.00} |   {2,5:P0} $&$ MNODETIMESECS MNODEDV THROTTLE
