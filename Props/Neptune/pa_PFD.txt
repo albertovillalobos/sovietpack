@@ -16,5 +16,5 @@
  ElecChrg: {0, -30:"("00.0%")"} 					$&$ LISTR_0_PERCENT
 
 ------Node in T-----------dV:---THROTTLE---------------------------
- {0,17:KDT+yy:ddd:hh:mm:ss.f}  |{1,9:0.00} |   {2,5:P0} $&$ MNODETIMESECS MNODEDV THROTTLE
+ {0,17:KDT+yy:ddd:hh:mm:ss.f}  |{1,9:SIP4.1}m/s |   {2,5:P0} $&$ MNODETIMESECS MNODEDV THROTTLE
 -------------------------------------------------------------------
