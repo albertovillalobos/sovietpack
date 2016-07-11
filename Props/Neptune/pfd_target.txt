@@ -1,8 +1,8 @@
 {1:"Target: ";"";""}{0}{1:;"Target PFD                             ";""} $&$ TARGETNAME TARGETEXISTS
 {2:;"                                        							";""}Dist: {0:SIP_6.3}m   Vel: {1:SIP_6.3}m/s $&$ TARGETDISTANCE TRGTSPEED TARGETEXISTS
 {3:;"                                        							";""}R.Ang X: {0,6:0.00}° Y:{1,6:0.00}° Z: {2,6:0.00}° $&$TARGETANGLEX TARGETANGLEY TARGETANGLEZ TARGETEXISTS
-
-
+cAT: {0,17:KDT+yy:ddd:hh:mm:ss.f} 			$&$ TARGETCLOSESTAPPROACHTIME  
+cAD: {0:SIP_8.3}m 							$&$ TARGETCLOSESTAPPROACHDISTANCE 
 
 
 

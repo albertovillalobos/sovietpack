@@ -1,6 +1,5 @@
 ﻿                          [#00ff00]Radar altitude
-[sub]70km[/sub]                        [#ff0000]ASL altitude
-
+[sub]600km[/sub]                        [#ff0000]ASL altitude
 
 
 

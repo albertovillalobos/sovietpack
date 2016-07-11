@@ -15,6 +15,5 @@
  Monoprop: {0, -30:"("00.0%")"} Lights: {1:ON;;OFF} $&$ LISTR_2_PERCENT LIGHTS
  ElecChrg: {0, -30:"("00.0%")"} 					$&$ LISTR_0_PERCENT
 
-------Node in T-----------dV:---THROTTLE---------------------------
- {0,17:KDT+yy:ddd:hh:mm:ss.f}  |{1,9:SIP4.1}m/s |   {2,5:P0} $&$ MNODETIMESECS MNODEDV THROTTLE
--------------------------------------------------------------------
+ NiT: {0,17:KDT+yy:ddd:hh:mm:ss.f} EstB: {1,17:KDT+yy:ddd:hh:mm:ss.f} $&$ MNODETIMESECS MNODEBURNTIMESECS 
+ NdV: {0,15:SIP4.1}m/s Throttle: {1,5:P0} $&$ MNODEDV THROTTLE
